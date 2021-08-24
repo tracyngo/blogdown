@@ -9,34 +9,50 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Top Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: #'I have 2 years of experience using R.'
   icon: r
   icon_pack: custom
   name: R
-- description: 70%
+  
+- description: #70%
   icon: python
   icon_pack: custom
   name: Python
-- description: 90%
+  
+- description: #'Click here <a href = "https://www.jspsych.org" target ="_blank" rel="noopener noreferrer" style="color: #F76F8E">jspsych</a> to see my Tableau dashboards.'
   icon: tableau
   icon_pack: custom
   name: Tableau
-- description: 100%
+  
+# - description: #100%
+#   icon: java
+#   icon_pack: custom
+#   name: JavaScript
+#   
+# - description: #100%
+#   icon: power-bi
+#   icon_pack: custom
+#   name: Power BI
+#   
+- description: #100%
   icon: machine-learning
   icon_pack: custom
   name: Machine Learning
-- description: 100%
+
+
+- description: #100%
   icon: analytics
   icon_pack: custom
   name: Text Analytics
-- description: 100%
+  
+- description: #100%
   icon: face-id
   icon_pack: custom
   name: Image Recognition

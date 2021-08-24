@@ -15,6 +15,9 @@ interests:
 - Text Analytics 
 - Image Recognition
 - Data Visualization
+organizations:
+- name: UMD
+role: MS. in Business Analytics
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,7 +36,8 @@ superuser: true
 title: Trang Ngo
 ---
 
-I should have something serious here, not now, but soon 
+Hey, I'm Trang. My career ambition is to work in data science because I’m fascinated by the idea of leveraging advanced algorithms to expose and predict patterns in human behavior.
 
+Outside of work, I enjoy cooking :curry:, traveling :airplane:, reading manga :books:, and watching anime or food/travel show :tv:. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
