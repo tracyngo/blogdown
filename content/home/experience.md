@@ -22,28 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Member Research and Intelligence Summer Associate
+    company: Navy Federal Credit Union
+    company_url: 'https://www.navyfederal.org/'
+    company_logo: navy
+    location: Virginia
+    date_start: '2021-05-24'
+    date_end: '2021-08-20'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analyzing
+        * Modeling
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        
+  - title: Political Data Intern
+    company: E.W.Scripps
+    company_url: 'https://scripps.com/'
+    company_logo: scripps
+    location: Washington D.C
+    date_start: '2020-06-01'
+    date_end: '2020-08-17'
+    description: |2- #Taught electronic engineering and researched semiconductor physics.
+      Responsibilities include:
+        
+        * Analyzed political advertising spending over time to recommend optimal marketing campaign design. Identified and researched cause of outliers
+        * Queried data with MySQL and web scraped HTML content from multiples URLs. Developed a process to download multiple images from URL list
+        * Utilized Keras_OCR (Optical Character Recognition) technology to recognize and extract text inside political ad images. Applied Speech Recognition to decode advertisement video audio into text. Performed topic and sentiment analysis on all collected image and video text. Automated the entire process into a complete model pipeline in RapidMiner. Pipeline developed to advise political advertiser marketing strategies
+        * Built Tableau dashboard to visualize spending by political party on the most important topic groupings
+        * Designed and presented concepts for a TV station advertisement placement strategy and a political image advertisement design optimization
+        
 
 design:
   columns: '2'

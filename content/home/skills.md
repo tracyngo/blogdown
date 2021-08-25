@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Top Skills
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -26,21 +26,27 @@ feature:
   icon_pack: custom
   name: Python
   
+
+- description: #100%
+  icon: rapidminer
+  icon_pack: custom
+  name: RapidMiner
+
 - description: #'Click here <a href = "https://www.jspsych.org" target ="_blank" rel="noopener noreferrer" style="color: #F76F8E">jspsych</a> to see my Tableau dashboards.'
   icon: tableau
   icon_pack: custom
   name: Tableau
   
-# - description: #100%
-#   icon: java
-#   icon_pack: custom
-#   name: JavaScript
-#   
-# - description: #100%
-#   icon: power-bi
-#   icon_pack: custom
-#   name: Power BI
-#   
+- description: #100%
+  icon: powerbi
+  icon_pack: custom
+  name: Power BI
+
+- description: #100%
+  icon: sql
+  icon_pack: custom
+  name: SQL  
+  
 - description: #100%
   icon: machine-learning
   icon_pack: custom
