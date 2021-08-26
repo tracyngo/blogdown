@@ -24,10 +24,10 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/tracyngo93
+  icon: link
+  icon_pack: fas
+  label: Follow me on Tableau Public
+  link: "" #replace soon
 - icon: github
   icon_pack: fab
   link: https://github.com/tracyngo
