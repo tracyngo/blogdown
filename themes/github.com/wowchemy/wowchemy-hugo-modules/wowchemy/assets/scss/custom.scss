@@ -1,1 +1,21 @@
 // Override this file to add your own SCSS styling.
+// .navbar {
+//  height: 100px;
+//  background: $sta-menu-primary;}
+
+
+// style the nav bar elements
+.navbar-brand img {
+    max-height: 26px;
+    float: left;
+    padding-right: 10px;
+}
+
+
+// add grey rectangles on hover  in nav bar
+#navbar-main .main-menu-item ul li .nav-link:hover {
+	background-color: #ffc107;
+}
+
+
+

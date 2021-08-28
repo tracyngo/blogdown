@@ -26,11 +26,11 @@ social:
     header: true
   icon: link
   icon_pack: fas
-  label: Follow me on Tableau Public
+  #label: Follow me on Tableau Public
   link: "" #replace soon
-- icon: github
-  icon_pack: fab
-  link: https://github.com/tracyngo
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/tracyngo
 
 superuser: true
 title: Trang Ngo
