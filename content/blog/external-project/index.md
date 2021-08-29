@@ -8,5 +8,5 @@ summary: Data Visualization and Deep Dive Analysis on Fatal Police Shootings fro
 
 tags:
 - Tableau Project
-title: Data Visualization in Police Shootings
+title: Data Visualization in Fatal Police Shootings
 ---
