@@ -27,7 +27,7 @@ social:
   icon: link
   icon_pack: fas
   #label: Follow me on Tableau Public
-  link: "" #replace soon
+  link: "https://public.tableau.com/app/profile/datathirsty" 
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/tracyngo

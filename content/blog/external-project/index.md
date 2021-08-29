@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: https://public.tableau.com/views/FatalPoliceShootings_TrangNgo/Story?:language=en-US&:display_count=n&:origin=viz_share_linkhttps://public.tableau.com/en-us/gallery/human-resources-dashboard?tab=viz-of-the-day&type=viz-of-the-day
+external_link: https://public.tableau.com/app/profile/datathirsty/viz/FatalPoliceShootings_TrangNgo_16302208300200/Story
 image:
   caption: external
   focal_point: Smart
