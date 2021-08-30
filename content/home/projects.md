@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Blogs
+title: Projects
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: blog
+  page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0

@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: "Data Thirsty" # Website name
 baseurl: 'https://datathirsty.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© Data Thirsty, {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
