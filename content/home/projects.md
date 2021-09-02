@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Tableau Project
-    tag: Tableau Project
-  - name: R Project
-    tag: R Project
+  - name: Tableau 
+    tag: Tableau
+  - name: R
+    tag: R
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

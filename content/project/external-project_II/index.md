@@ -7,6 +7,6 @@ image:
 summary: Data Visualization and Deep Dive Analysis on Fatal Police Shootings from 2015 to 2020 by Tableau
 
 tags:
-- Tableau Project
+- Tableau
 title: Data Visualization in Fatal Police Shootings
 ---
