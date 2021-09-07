@@ -19,3 +19,14 @@
 }
 
 
+.form-control:focus {
+  border-color: #ffc107;
+  box-shadow: 0 0 0 0.2rem #ffd766; }
+
+.dark .form-control {
+  background-color: #44475a; }
+
+.dark .form-control:focus {
+  background-color: #44475a;
+  border-color: #ffc107;
+  box-shadow: 0 0 0 0.2rem #ffbd00; }
