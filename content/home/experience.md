@@ -32,8 +32,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analyzing
-        * Modeling
+        * Developed a text analytics framework to enhance marketing email effectiveness within the credit card marketing use case. Framework identified email word choices that positively and negatively impact email success metrics by different member demographic and financial health segments. Framework implementation is expected to significantly increase both open rate and click through rate.
+        * Designed SQL queries to collect and manipulate credit card marketing campaign success data. Streamlined the process using SPSS Modeler to be easily applied to new product areas.
+        * Created text extraction code in Python to extract marketing email subject line and body text. 
+        * Built text theme dictionaries and performed analysis with Quanteda package. Visualized the success of marketing email word choice utilizing Ggplot package in R Studio. 
+        * Presented framework to SVP of Marketing and to an enterprise-wide group of analysts and leaders.
         
         
   - title: Political Data Intern
