@@ -99,7 +99,7 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: 'data-thirsty'
+    shortname: 'datathirsty'
     show_count: true
   commento:
     url: ''
