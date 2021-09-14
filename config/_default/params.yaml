@@ -127,3 +127,5 @@ icon:
   pack:
     ai: true
     
+# customCSS: ["static/css/applause-button.css"] 
+# customJS: ["static/js/applause-button.js"]

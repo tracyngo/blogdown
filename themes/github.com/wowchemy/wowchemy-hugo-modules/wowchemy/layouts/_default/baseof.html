@@ -38,6 +38,11 @@
     {{ block "main" . }}{{ end }}
   </div>
 
+   <!-- applause button style & script -->
+  <link rel="stylesheet" href="https://unpkg.com/applause-button@3.4.0/dist/applause-button.css">
+  <script src="https://unpkg.com/applause-button@3.4.0/dist/applause-button.js"></script>
+
+
   <div class="page-footer">
     {{/* Docs and Updates layouts include the site footer in a different location. */}}
     {{ if not (in (slice "book" "docs" "updates") .Type) }}
