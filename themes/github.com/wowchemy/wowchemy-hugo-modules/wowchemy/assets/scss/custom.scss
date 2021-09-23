@@ -66,3 +66,25 @@
   padding-right: 1.5rem;
   vertical-align: middle;
 }
+
+
+
+.portrait-title {
+  animation: flipInX 1s both;
+  animation-delay: 0.4s;
+}
+
+
+
+@keyframes slide-from-right {
+  0% {
+    transform: translateX(150%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+.biography-title {
+  animation: slide-from-right 1s forwards;
+}

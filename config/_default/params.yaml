@@ -115,7 +115,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: '' #setup soon
+  google_analytics: 'UA-193649311-3'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
